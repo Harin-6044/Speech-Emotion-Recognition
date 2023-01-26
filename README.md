@@ -23,7 +23,7 @@
 
 * <p align = "justify">This system is built using the Long Short-Term Memory (LSTM) model and the Artificial Neural Network (ANN) model for emotion recognition on the audio that is given as the input. This system predicts the emotion of the audio files that are located in the local directory of the host machine.</p>
 
-* <p align = "justify">The accuracy of the two models are increased by increasing the number of epochs that are given to the models. These models are trained on a set of known audio datas and are used to predict the emotion of the unseen audio datas that are given by the users.</p>
+* <p align = "justify">The accuracy of the two models are increased by increasing the number of epochs that are given to the models. These models are trained on a set of known audio data and are used to predict the emotion of the unseen audio data that are given by the users.</p>
 
 ### Dataset :
 
